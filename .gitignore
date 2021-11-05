@@ -12,3 +12,15 @@ text/return.txt
 text/sign.txt
 text/boer.txt
 text/white.txt
+text/adventure.txt
+text/adventure-nouns.txt
+text/boer-nouns.txt
+.gitignore
+text/fear-nouns.txt
+text/hound-nouns.txt
+text/last-nouns.txt
+text/memoirs-nouns.txt
+text/return-nouns.txt
+text/scarlet-nouns.txt
+text/sign-nouns.txt
+text/white-nouns.txt
